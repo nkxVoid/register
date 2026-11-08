@@ -4,6 +4,8 @@
     "email": "neoaz69x@gmail.com"
   },
   "records": {
-    "TXT": ["vc-domain-verify=neoaz.is-a.dev,dfcc84b201329d86c0b1"]
+    "TXT": [
+      "vc-domain-verify=neoaz.is-a.dev,dfcc84b201329d86c0b1"
+    ]
   }
 }
